@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.*
+.cache
+.pytest_cache/
+
+# Data files (can be huge — keep raw data elsewhere!)
+*.csv
+*.tsv
+*.dat
+*.npz
+*.npy
+*.h5
+*.parquet
+*.feather
+*.pkl
+*.joblib
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook outputs (optional, if you don’t want outputs in git)
+# *.ipynb
+
+# Model files
+*.model
+*.ckpt
+*.pth
+*.pt
+*.hdf5
+
+# Data files
+data/
