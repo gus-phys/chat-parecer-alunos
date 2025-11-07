@@ -1,5 +1,3 @@
-# data-science-project/README.md
-
 # Parecer de alunos
 
 # Estrutura dos arquivos
